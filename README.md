@@ -1,5 +1,5 @@
 # MMM-json-table
-A MagicMirror module to display json data as table
+A **MagicMirror²** module to display data from a json source as table
 
 
 
